@@ -7,6 +7,7 @@ module Routes.Resources(
 
 import Data.Text
 
+//
 
 type Resource = Text
 type ResourcePath = [Text]
